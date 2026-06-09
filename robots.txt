@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rocketnew.github.io/monetag-earn-pro/sitemap.xml
